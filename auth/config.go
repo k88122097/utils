@@ -16,7 +16,7 @@ import (
 	"github.com/gophercloud/gophercloud/v2/openstack/objectstorage/v1/swauth"
 	osClient "github.com/gophercloud/utils/v2/client"
 	"github.com/gophercloud/utils/v2/openstack/clientconfig"
-	"github.com/terraform-provider-openstack/utils/v2/mutexkv"
+	"github.com/k88122097/utils/v2/mutexkv"
 )
 
 type Config struct {

@@ -1,4 +1,4 @@
-module github.com/terraform-provider-openstack/utils/v2
+module github.com/k88122097/utils/v2
 
 go 1.24
 

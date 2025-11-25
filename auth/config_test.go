@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/terraform-provider-openstack/utils/v2/auth"
+	"github.com/k88122097/utils/v2/auth"
 )
 
 func TestCloudsYAMLBackfillsAuthURL(t *testing.T) {
